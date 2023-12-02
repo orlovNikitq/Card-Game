@@ -1,0 +1,14 @@
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.exe
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.deps.json
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.runtimeconfig.json
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.dll
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.pdb
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.dll
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\refint\HomeWork.dll
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.pdb
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.genruntimeconfig.cache
+C:\Users\zunderz\Documents\projc#\HomeWork\HomeWork\obj\Debug\net6.0\ref\HomeWork.dll
